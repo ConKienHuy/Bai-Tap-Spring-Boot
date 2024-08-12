@@ -20,6 +20,4 @@ public class MyController {
     public String getDailyworkout(){
         return myCoach.getDailyWorkout();
     }
-
-
 }
